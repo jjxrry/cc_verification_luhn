@@ -1,0 +1,45 @@
+##Test Run 1
+##
+##How many credit card numbers do you want to check? 2
+##Enter a credit card number: 4388576018402626
+##4388576018402626 is invalid
+##Enter a credit card number: 4388576018410707
+##4388576018410707 is valid
+##
+##
+##Test Run 2
+##
+##How many credit card numbers do you want to check? 0
+##
+##
+##Test Run 3
+##
+##How many credit card numbers do you want to check? 3
+##Enter a credit card number: 12345678
+##12345678 is invalid
+##Enter a credit card number: 5169769005222217
+##5169769005222217 is valid
+##Enter a credit card number: 6011655276746808
+##6011655276746808 is invalid
+##
+##
+##Test Run 4
+##
+##How many credit card numbers do you want to check? 2
+##Enter a credit card number: 7288827161122235
+##7288827161122235 is invalid
+##Enter a credit card number: 374007272716930
+##374007272716930 is valid
+##
+##
+##Test Run 5
+##
+##How many credit card numbers do you want to check? 4
+##Enter a credit card number: 374700272713960
+##374700272713960 is valid
+##Enter a credit card number: 6011405517534751
+##6011405517534751 is valid
+##Enter a credit card number: 6011504557135741
+##6011504557135741 is valid
+##Enter a credit card number: 342462964238231
+##342462964238231 is invalid
